@@ -13,8 +13,10 @@ bun dev
 ```
 
 ## Set in .env
+```bash
 UPLOADTHING_SECRET=
-UPLOADTHING_APP_ID
+UPLOADTHING_APP_ID=
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
